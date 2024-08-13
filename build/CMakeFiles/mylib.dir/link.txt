@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmylib.a CMakeFiles/mylib.dir/src/database.c.o CMakeFiles/mylib.dir/src/fileOperations.c.o CMakeFiles/mylib.dir/src/main.c.o CMakeFiles/mylib.dir/src/row.c.o CMakeFiles/mylib.dir/src/table.c.o CMakeFiles/mylib.dir/src/userInteraction.c.o CMakeFiles/mylib.dir/src/utils.c.o CMakeFiles/mylib.dir/src/utilsFileOperations.c.o CMakeFiles/mylib.dir/src/utilsTable.c.o
+/usr/bin/ranlib libmylib.a

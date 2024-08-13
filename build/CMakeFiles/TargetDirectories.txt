@@ -1,0 +1,4 @@
+/home/emanuel/Documentos/UFRN/UFRN/ITP/SGBD/build/CMakeFiles/mylib.dir
+/home/emanuel/Documentos/UFRN/UFRN/ITP/SGBD/build/CMakeFiles/main.dir
+/home/emanuel/Documentos/UFRN/UFRN/ITP/SGBD/build/CMakeFiles/edit_cache.dir
+/home/emanuel/Documentos/UFRN/UFRN/ITP/SGBD/build/CMakeFiles/rebuild_cache.dir
